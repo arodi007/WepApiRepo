@@ -1,0 +1,81 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "WebAPI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/WebAPI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebAPI/1.0.0": {
+      "type": "project",
+      "path": "../WebAPI/WebAPI.csproj",
+      "msbuildProject": "../WebAPI/WebAPI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": [
+      "WebAPI >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\p124313\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\p124313\\Source\\Repos\\API Project\\WebAPI\\WebApi.Test\\WebApi.Test.csproj",
+      "projectName": "WebApi.Test",
+      "projectPath": "C:\\Users\\p124313\\Source\\Repos\\API Project\\WebAPI\\WebApi.Test\\WebApi.Test.csproj",
+      "packagesPath": "C:\\Users\\p124313\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\p124313\\Source\\Repos\\API Project\\WebAPI\\WebApi.Test\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\p124313\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {
+            "C:\\Users\\p124313\\Source\\Repos\\API Project\\WebAPI\\WebAPI\\WebAPI.csproj": {
+              "projectPath": "C:\\Users\\p124313\\Source\\Repos\\API Project\\WebAPI\\WebAPI\\WebAPI.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

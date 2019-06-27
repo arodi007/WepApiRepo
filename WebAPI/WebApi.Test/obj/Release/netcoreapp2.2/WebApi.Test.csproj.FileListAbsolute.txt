@@ -1,0 +1,17 @@
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\bin\Release\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\bin\Release\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\bin\Release\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\bin\Release\netcoreapp2.2\WebApi.Test.deps.json
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\bin\Release\netcoreapp2.2\WebApi.Test.runtimeconfig.json
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\bin\Release\netcoreapp2.2\WebApi.Test.runtimeconfig.dev.json
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\bin\Release\netcoreapp2.2\WebApi.Test.dll
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\bin\Release\netcoreapp2.2\WebApi.Test.pdb
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\bin\Release\netcoreapp2.2\WebAPI.dll
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\bin\Release\netcoreapp2.2\WebAPI.pdb
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\obj\Release\netcoreapp2.2\WebApi.Test.csprojAssemblyReference.cache
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\obj\Release\netcoreapp2.2\WebApi.Test.csproj.CoreCompileInputs.cache
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\obj\Release\netcoreapp2.2\WebApi.Test.AssemblyInfoInputs.cache
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\obj\Release\netcoreapp2.2\WebApi.Test.AssemblyInfo.cs
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\obj\Release\netcoreapp2.2\WebApi.Test.csproj.CopyComplete
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\obj\Release\netcoreapp2.2\WebApi.Test.dll
+C:\Users\chebhi\Desktop\devopsmaster\2 Source Control\distribution\orig\WebAPI\WebApi.Test\obj\Release\netcoreapp2.2\WebApi.Test.pdb
